@@ -1,0 +1,43 @@
+.customDiv{
+	margin: 3px;
+	background-color: silver;
+	text-align: center;
+	min-height: 300px;
+	font-size: large;
+
+}
+
+.img-responsive{
+display: block;
+  max-width: 70%;
+  height: auto;
+
+}
+.table>tbody>tr>td{
+   padding: 2px;
+   
+}
+.table{
+   border-spacing: 0px;
+   padding: 5px;
+}
+
+.glyphicon {
+margin-right: 4px !important; /*override*/
+}
+.pagination .glyphicon {
+margin-right: 0px !important; /*override*/
+}
+.pagination a {
+color: #555;
+}
+.panel ul {
+padding: 0px;
+margin: 0px;
+list-style: none;
+}
+.news-item {
+padding: 4px 4px;
+margin: 0px;
+border-bottom: 1px dotted #555;
+}
